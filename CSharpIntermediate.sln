@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopWatch", "StopWatch\Stop
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackOverflowPost", "StackOverflowPost\StackOverflowPost.csproj", "{C63AFF97-59BE-4A5E-9BEB-E8C36AE0613E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackExercise", "StackExercise\StackExercise.csproj", "{0EE9B12D-76E4-4872-9DDB-9807B0E1C5E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolymorphismExercise", "PolymorphismExercise\PolymorphismExercise.csproj", "{BAFC3757-D7A1-49CF-99B1-460D136311E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{C63AFF97-59BE-4A5E-9BEB-E8C36AE0613E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C63AFF97-59BE-4A5E-9BEB-E8C36AE0613E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C63AFF97-59BE-4A5E-9BEB-E8C36AE0613E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EE9B12D-76E4-4872-9DDB-9807B0E1C5E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE9B12D-76E4-4872-9DDB-9807B0E1C5E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE9B12D-76E4-4872-9DDB-9807B0E1C5E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE9B12D-76E4-4872-9DDB-9807B0E1C5E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAFC3757-D7A1-49CF-99B1-460D136311E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAFC3757-D7A1-49CF-99B1-460D136311E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAFC3757-D7A1-49CF-99B1-460D136311E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAFC3757-D7A1-49CF-99B1-460D136311E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
